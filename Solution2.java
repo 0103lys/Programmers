@@ -3,7 +3,7 @@ class Solution {
         long[] answer = new long[n];
         long num = x;
        
-        for (int i=0 ; i <answer.length; i++) {
+        for (int i=0 ; i<answer.length; i++) {
 			answer[i] = num;
             num = num + x;
 		}
