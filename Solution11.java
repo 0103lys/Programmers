@@ -4,7 +4,7 @@ class Solution {
         
         for(int i=0; i<absolutes.length; i++){
             if(signs[i]==false){
-                answer += -absolutes[i];
+                answer+=-absolutes[i];
             }else if(signs[i]==true) {
                 answer += absolutes[i];
             }
