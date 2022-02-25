@@ -1,3 +1,4 @@
+// 정수 제곱근 판별
 class Solution {
     public long solution(long n) {
         long answer = 0;
