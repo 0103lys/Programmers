@@ -1,3 +1,4 @@
+// 문자열 다루기 기본
 class Solution {
     public boolean solution(String s) {
         boolean answer = true;
