@@ -1,3 +1,4 @@
+// 짝수와 홀수
 class Solution {
     public String solution(int num) {
         String answer = "Even";
