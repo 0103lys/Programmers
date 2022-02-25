@@ -1,3 +1,4 @@
+// 자연수 뒤집어 배열로 만들기
 class Solution {
     public int[] solution(long n) {
         String[] num = Long.toString(n).split("");
