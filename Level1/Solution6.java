@@ -1,3 +1,4 @@
+// 하샤드 수
 class Solution {
     public boolean solution(int x) {
         int num = x;
