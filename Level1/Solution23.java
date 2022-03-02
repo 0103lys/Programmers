@@ -1,3 +1,4 @@
+// 콜라츠 추측
 class Solution {
     public int solution(long num) {
         int answer = 0;
